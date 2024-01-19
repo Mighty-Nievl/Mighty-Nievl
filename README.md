@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mighty-Nievl
+- 👋 Hi, I’m Nievl
 - 👀 I’m interested in cat
 - 🌱 I’m currently learning front-end web-dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 nievl0611@gmail.com
 
 <!---
 Mighty-Nievl/Mighty-Nievl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
